@@ -1,3 +1,7 @@
+<!-- https://github.com/fullcalendar/fullcalendar-example-projects/pull/16 -->
+<!-- https://stackoverflow.com/questions/66750199/fullcalendar-nextjs-dynamic-import-doesnt-show-calendar -->
+<!-- https://www.davidangulo.xyz/how-to-use-fullcalendar-in-next-js/ -->
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started

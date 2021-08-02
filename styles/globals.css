@@ -14,3 +14,10 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.container {
+  max-width: 72rem;
+  padding: 4rem;
+  margin-left: auto;
+  margin-right: auto;
+}
